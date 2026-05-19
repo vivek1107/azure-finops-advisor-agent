@@ -45,6 +45,7 @@ azure-finops-advisor-agent/
 ├── app.py
 ├── requirements.txt
 ├── README.md
+├── .gitignore
 └── sample_data/
     └── sample_azure_cost_data.csv
 ```
