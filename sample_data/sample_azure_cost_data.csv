@@ -1,0 +1,20 @@
+Date,Subscription,ResourceGroup,ServiceName,ResourceName,MeterCategory,Region,Environment,Owner,Cost (€),UsageQuantity,CostCenter
+01-05-2026,Prod-Sub,rg-ai-prod,Azure OpenAI,aoai-prod-01,AI + Machine Learning,westeurope,prod,AI-Team,125.5,34000,CC1001
+01-05-2026,Prod-Sub,rg-search-prod,Azure AI Search,search-prod-01,Search,westeurope,prod,AI-Team,88.3,1200,CC1001
+01-05-2026,Prod-Sub,rg-app-prod,App Service,app-prod-01,Compute,westeurope,prod,App-Team,52.2,720,CC2001
+01-05-2026,Prod-Sub,rg-storage-prod,Storage Account,stprod001,Storage,westeurope,prod,Data-Team,64,2100,CC4001
+01-05-2026,Dev-Sub,rg-test-dev,Virtual Machines,vm-test-01,Compute,westeurope,dev,,110,720,
+01-05-2026,Dev-Sub,rg-storage-dev,Storage Account,stdev001,Storage,westeurope,dev,Dev-Team,40,900,CC3001
+02-05-2026,Prod-Sub,rg-ai-prod,Azure OpenAI,aoai-prod-01,AI + Machine Learning,westeurope,prod,AI-Team,185.7,52000,CC1001
+02-05-2026,Prod-Sub,rg-search-prod,Azure AI Search,search-prod-01,Search,westeurope,prod,AI-Team,92.6,1350,CC1001
+02-05-2026,Prod-Sub,rg-app-prod,App Service,app-prod-01,Compute,westeurope,prod,App-Team,54.8,720,CC2001
+02-05-2026,Prod-Sub,rg-storage-prod,Storage Account,stprod001,Storage,westeurope,prod,Data-Team,66.5,2200,CC4001
+02-05-2026,Dev-Sub,rg-test-dev,Virtual Machines,vm-test-01,Compute,westeurope,dev,,115,720,
+02-05-2026,Dev-Sub,rg-storage-dev,Storage Account,stdev001,Storage,westeurope,dev,Dev-Team,42,920,CC3001
+03-05-2026,Prod-Sub,rg-ai-prod,Azure OpenAI,aoai-prod-01,AI + Machine Learning,westeurope,prod,AI-Team,310.2,89000,CC1001
+03-05-2026,Prod-Sub,rg-search-prod,Azure AI Search,search-prod-01,Search,westeurope,prod,AI-Team,96.4,1400,CC1001
+03-05-2026,Prod-Sub,rg-app-prod,App Service,app-prod-01,Compute,westeurope,prod,App-Team,55.1,730,CC2001
+03-05-2026,Prod-Sub,rg-databricks-prod,Azure Databricks,adb-prod-01,Analytics,westeurope,prod,Data-Team,240,16,CC4001
+03-05-2026,Dev-Sub,rg-test-dev,Virtual Machines,vm-test-01,Compute,westeurope,dev,,118,720,
+03-05-2026,Test-Sub,rg-test-app,App Service,app-test-01,Compute,westeurope,test,,65,720,
+03-05-2026,Test-Sub,rg-test-search,Azure AI Search,search-test-01,Search,westeurope,test,AI-Team,80,600,
